@@ -6,4 +6,3 @@ Iris detection involves identifying and localizing the iris region within an eye
 ## MediaPipe
 MediaPipe is a comprehensive framework developed by Google for building machine learning pipelines to process perceptual data such as audio and video. It provides pre-trained machine learning models for various tasks, allowing developers to perform complex tasks like facial landmark detection without training their own models from scratch. 
 ![image (1)](https://github.com/user-attachments/assets/1bfd9a25-107e-451c-b50a-749ee0bf2b7e)
-
