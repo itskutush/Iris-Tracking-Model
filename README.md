@@ -1,4 +1,4 @@
-# Iris Tracking Model
+# Real Time Iris Tracking
 Real-time iris detection refers to the process of identifying and locating irises within live or recorded video streams in real-time.
 This technology involves detecting the presence of eyes, extracting iris regions, and potentially recognizing individuals based on their iris patterns, all in a continuous and immediate manner.
 ## Background
