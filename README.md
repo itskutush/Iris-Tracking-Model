@@ -5,6 +5,7 @@ This technology involves detecting the presence of eyes, extracting iris regions
 Iris detection involves identifying and localizing the iris region within an eye image or video frame. It utilizes computer vision techniques to detect distinct features and patterns unique to the iris.Typically, iris detection involves preprocessing steps like image segmentation and feature extraction, followed by classification or recognition algorithms.It finds applications in biometric identification systems, authentication, and medical diagnostics, leveraging the iris's uniqueness for accurate identification and analysis.
 ## MediaPipe
 MediaPipe is a comprehensive framework developed by Google for building machine learning pipelines to process perceptual data such as audio and video. It provides pre-trained machine learning models for various tasks, allowing developers to perform complex tasks like facial landmark detection without training their own models from scratch. 
+
 ![image (1)](https://github.com/user-attachments/assets/1bfd9a25-107e-451c-b50a-749ee0bf2b7e)
 
 ## Installation
