@@ -9,18 +9,12 @@ MediaPipe is a comprehensive framework developed by Google for building machine 
 ![image (1)](https://github.com/user-attachments/assets/1bfd9a25-107e-451c-b50a-749ee0bf2b7e)
 
 ## Methodology
-Initialization: Import required libraries and modules such as OpenCV, NumPy, Mediapipe, and Math. Define landmark indices for the eyes and iris regions.
-
-Facial Landmark Detection: Utilize the Mediapipe face mesh model to detect facial landmarks in real-time from the webcam feed.
-
-Iris Position Calculation: Calculate the position of the iris (left, center, or right) based on the detected landmarks and their relative distances.
-
-Accuracy Evaluation: Evaluate the accuracy of iris detection by comparing the predicted iris positions with predefined ground truth values, calculating Mean Squared Error (MSE) and Root Mean Squared Error (RMSE).
-
-Visualization: Visualize the detected facial landmarks, iris positions, and evaluation metrics on the webcam feed in real-time using OpenCV
-Output:
-<img width="357" alt="Screenshot 2024-09-17 at 11 11 34 PM" src="https://github.com/user-attachments/assets/f52ce605-9d82-46b8-aa78-17313a9085e9">
-
+1. Initialization: Import required libraries and modules such as OpenCV, NumPy, Mediapipe, and Math. Define landmark indices for the eyes and iris regions.
+2. Facial Landmark Detection: Utilize the Mediapipe face mesh model to detect facial landmarks in real-time from the webcam feed.
+3. Iris Position Calculation: Calculate the position of the iris (left, center, or right) based on the detected landmarks and their relative distances.
+4. Accuracy Evaluation: Evaluate the accuracy of iris detection by comparing the predicted iris positions with predefined ground truth values, calculating Mean Squared Error (MSE) and Root 
+   Mean Squared Error (RMSE).
+5. Visualization: Visualize the detected facial landmarks, iris positions, and evaluation metrics on the webcam feed in real-time using OpenCV
 
 ## Installation
 1. Clone the repository:
